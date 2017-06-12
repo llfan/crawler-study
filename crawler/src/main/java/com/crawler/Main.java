@@ -4,9 +4,7 @@ import com.crawler.lianjia.LianjiaData;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * Created by fll on 17-6-9.
- */
+
 public class Main {
 
     private static Logger LOG = LoggerFactory.getLogger(Main.class);

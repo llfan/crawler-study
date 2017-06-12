@@ -19,7 +19,7 @@ public class FilterUtilsTest {
 
         String regxS = "href=\"(.+?)\"";
         String contentS
-                = HttpUtils.getData("https://bj.lianjia.com/ershoufang/shangdi1/?sug=%E4%B8%8A%E5%9C%B0");
+                = HttpUtils.getData("https://bj.lianjia.com/");
 
         result = FilterUtils.filter(regxS, contentS);
 

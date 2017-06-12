@@ -7,13 +7,14 @@ import org.slf4j.LoggerFactory;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.net.URLConnection;
+import java.net.*;
+import java.util.concurrent.BlockingQueue;
 
-public class HttpUtils {
+public class HttpUtils{
 
     private static Logger LOG = LoggerFactory.getLogger(HttpUtils.class);
+
+
 
     public static String getData(String url){
 
@@ -24,6 +25,7 @@ public class HttpUtils {
 
         try {
             URL oriUrl = new URL(url);
+            Proxy proxy = new Proxy(Proxy.Type.HTTP, new InetSocketAddress(InetAddress.getByName("101.94.128.166"),8123));
             URLConnection connection = oriUrl.openConnection();
 
             reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
@@ -39,8 +41,8 @@ public class HttpUtils {
             LOG.warn(e.getMessage());
         }
 
+        LOG.info("内容为：{}", content);
+
         return content;
     }
-
-
 }

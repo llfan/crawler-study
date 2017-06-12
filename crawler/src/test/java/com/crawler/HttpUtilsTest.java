@@ -11,7 +11,7 @@ public class HttpUtilsTest {
     public void testGetData(){
 
         String content
-                = HttpUtils.getData("https://bj.lianjia.com/ershoufang/101101505281.html");
+                = HttpUtils.getData("https://bj.lianjia.com/ershoufang/101101594495.html");
 
         System.out.println(content);
     }

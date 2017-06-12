@@ -9,9 +9,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-/**
- * Created by fll on 17-6-9.
- */
+
 public class LianjiaData {
 
     private static Logger LOG = LoggerFactory.getLogger(LianjiaData.class);
@@ -28,6 +26,8 @@ public class LianjiaData {
         getContent(getFirstUrl());
     }
 
+
+
     private List<String> getFirstUrl(){
         String content = HttpUtils.getData(oriUrl);
 
@@ -36,7 +36,7 @@ public class LianjiaData {
         return FilterUtils.filter(regx, content);
     }
 
-    private List<String> getContent(List<String> rootUrl){
+    private void getContent(List<String> rootUrl){
 
         List<String> contents = new ArrayList<>();
 
@@ -45,18 +45,20 @@ public class LianjiaData {
         while(it.hasNext()){
             String url = it.next();
             if(url.contains(".html")){
+                try {
+                    Thread.sleep(2000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 url = url.substring(url.indexOf("https"), url.indexOf(".html")+5);
+                HouseInfoParser.parse(url);
             }else{
                 continue;
             }
 
-            String content = HttpUtils.getData(url);
-
-            contents.add(content);
-            LOG.info("---------------{}", content);
         }
 
-        return contents;
     }
+
 
 }
