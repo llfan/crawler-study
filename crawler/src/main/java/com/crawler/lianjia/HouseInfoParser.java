@@ -11,15 +11,13 @@ import java.io.IOException;
 public class HouseInfoParser {
 
 
-    public static void parse(String url){
+    public static void parse(String html){
         Document doc = null;
-        try {
-            doc = Jsoup.connect(url).get();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
 
-        //System.out.println("开始解析：" + url + "====================");
+        doc = Jsoup.parse(html);
+
+
+        System.out.println("开始解析：" + doc.html());
 
         Element content = doc.getElementsByClass("content").get(1);
 

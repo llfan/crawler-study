@@ -1,0 +1,579 @@
+2017-06-14 10:16:56  [ main:0 ] - [ INFO ]  开始加载检测kuaidaili上的代理
+2017-06-14 10:16:58  [ main:2187 ] - [ INFO ]  共加载0个代理，其中0个可用
+2017-06-14 10:16:58  [ main:2191 ] - [ INFO ]  close HttpCore
+2017-06-14 10:16:58  [ main:2252 ] - [ INFO ]  开始采集，url： https://bj.lianjia.com/ershoufang/shangdi1/?sug=%E4%B8%8A%E5%9C%B0
+2017-06-14 10:17:44  [ main:0 ] - [ INFO ]  开始加载检测kuaidaili上的代理
+2017-06-14 10:18:01  [ main:16646 ] - [ INFO ]  初始化添加代理，218.66.253.145:8800
+2017-06-14 10:18:01  [ main:16913 ] - [ INFO ]  初始化添加代理，60.191.164.83:3128
+2017-06-14 10:18:08  [ main:24004 ] - [ WARN ]  Remote host closed connection during handshake
+2017-06-14 10:18:08  [ main:24005 ] - [ INFO ]  初始化添加代理，60.160.128.10:9999
+2017-06-14 10:18:15  [ main:31483 ] - [ INFO ]  初始化添加代理，218.75.116.58:9999
+2017-06-14 10:18:17  [ main:33487 ] - [ WARN ]  Connect to 218.75.116.58:9999 [/218.75.116.58] failed: connect timed out
+2017-06-14 10:18:17  [ main:33488 ] - [ INFO ]  初始化添加代理，106.3.240.209:8080
+2017-06-14 10:18:19  [ main:35491 ] - [ WARN ]  Connect to 106.3.240.209:8080 [/106.3.240.209] failed: connect timed out
+2017-06-14 10:18:19  [ main:35492 ] - [ INFO ]  初始化添加代理，183.45.172.117:9797
+2017-06-14 10:18:21  [ main:37495 ] - [ WARN ]  Connect to 183.45.172.117:9797 [/183.45.172.117] failed: connect timed out
+2017-06-14 10:18:21  [ main:37496 ] - [ INFO ]  初始化添加代理，58.62.207.51:9999
+2017-06-14 10:18:27  [ main:43103 ] - [ INFO ]  初始化添加代理，60.160.128.10:9797
+2017-06-14 10:18:29  [ main:45108 ] - [ WARN ]  Connect to 60.160.128.10:9797 [/60.160.128.10] failed: connect timed out
+2017-06-14 10:18:29  [ main:45109 ] - [ INFO ]  初始化添加代理，125.93.148.112:9000
+2017-06-14 10:18:31  [ main:47114 ] - [ WARN ]  Connect to 125.93.148.112:9000 [/125.93.148.112] failed: connect timed out
+2017-06-14 10:18:31  [ main:47117 ] - [ INFO ]  初始化添加代理，163.125.156.69:8888
+2017-06-14 10:31:05  [ main:0 ] - [ INFO ]  开始加载检测kuaidaili上的代理
+2017-06-14 10:31:22  [ main:17475 ] - [ INFO ]  初始化添加代理，218.66.253.145:8800
+2017-06-14 10:31:23  [ main:17877 ] - [ INFO ]  初始化添加代理，60.191.164.83:3128
+2017-06-14 10:31:23  [ main:17962 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://60.191.164.83:3128->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:31:23  [ main:17963 ] - [ INFO ]  Retrying request to {tls}->http://60.191.164.83:3128->https://bj.lianjia.com:443
+2017-06-14 10:31:23  [ main:18042 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://60.191.164.83:3128->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:31:23  [ main:18043 ] - [ INFO ]  Retrying request to {tls}->http://60.191.164.83:3128->https://bj.lianjia.com:443
+2017-06-14 10:31:29  [ main:23988 ] - [ WARN ]  Remote host closed connection during handshake
+2017-06-14 10:31:29  [ main:23989 ] - [ INFO ]  初始化添加代理，60.160.128.10:9999
+2017-06-14 10:31:31  [ main:25992 ] - [ WARN ]  Connect to 60.160.128.10:9999 [/60.160.128.10] failed: connect timed out
+2017-06-14 10:31:31  [ main:25993 ] - [ INFO ]  初始化添加代理，218.75.116.58:9999
+2017-06-14 10:31:33  [ main:27996 ] - [ WARN ]  Connect to 218.75.116.58:9999 [/218.75.116.58] failed: connect timed out
+2017-06-14 10:31:33  [ main:27997 ] - [ INFO ]  初始化添加代理，106.3.240.209:8080
+2017-06-14 10:31:35  [ main:30000 ] - [ WARN ]  Connect to 106.3.240.209:8080 [/106.3.240.209] failed: connect timed out
+2017-06-14 10:31:35  [ main:30001 ] - [ INFO ]  初始化添加代理，183.45.172.117:9797
+2017-06-14 10:31:53  [ main:48373 ] - [ WARN ]  Read timed out
+2017-06-14 10:31:53  [ main:48374 ] - [ INFO ]  初始化添加代理，58.62.207.51:9999
+2017-06-14 10:31:55  [ main:50376 ] - [ WARN ]  Connect to 58.62.207.51:9999 [/58.62.207.51] failed: connect timed out
+2017-06-14 10:31:55  [ main:50377 ] - [ INFO ]  初始化添加代理，60.160.128.10:9797
+2017-06-14 10:31:57  [ main:52380 ] - [ WARN ]  Connect to 60.160.128.10:9797 [/60.160.128.10] failed: connect timed out
+2017-06-14 10:31:57  [ main:52382 ] - [ INFO ]  初始化添加代理，125.93.148.112:9000
+2017-06-14 10:31:59  [ main:54385 ] - [ WARN ]  Connect to 125.93.148.112:9000 [/125.93.148.112] failed: connect timed out
+2017-06-14 10:31:59  [ main:54385 ] - [ INFO ]  初始化添加代理，163.125.156.69:8888
+2017-06-14 10:32:01  [ main:56388 ] - [ WARN ]  Connect to 163.125.156.69:8888 [/163.125.156.69] failed: connect timed out
+2017-06-14 10:32:01  [ main:56389 ] - [ INFO ]  初始化添加代理，218.56.132.158:8080
+2017-06-14 10:33:06  [ main:120536 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 10:33:06  [ main:120536 ] - [ INFO ]  初始化添加代理，117.114.153.242:9999
+2017-06-14 10:33:24  [ main:139109 ] - [ WARN ]  Connect to 117.114.153.242:9999 [/117.114.153.242] failed: connect timed out
+2017-06-14 10:33:24  [ main:139110 ] - [ INFO ]  初始化添加代理，183.57.82.71:8081
+2017-06-14 10:33:26  [ main:141111 ] - [ WARN ]  Connect to 183.57.82.71:8081 [/183.57.82.71] failed: connect timed out
+2017-06-14 10:33:26  [ main:141112 ] - [ INFO ]  初始化添加代理，111.40.84.73:9999
+2017-06-14 10:33:27  [ main:141894 ] - [ INFO ]  初始化添加代理，61.163.39.70:9999
+2017-06-14 10:33:29  [ main:144491 ] - [ INFO ]  共加载15个代理，其中2个可用
+2017-06-14 10:33:29  [ main:144491 ] - [ INFO ]  61.163.39.70:9999
+2017-06-14 10:33:29  [ main:144492 ] - [ INFO ]  111.40.84.73:9999
+2017-06-14 10:33:29  [ main:144492 ] - [ INFO ]  close HttpCore
+2017-06-14 10:33:29  [ main:144498 ] - [ INFO ]  开始采集，url： https://bj.lianjia.com/ershoufang/shangdi1/?sug=%E4%B8%8A%E5%9C%B0
+2017-06-14 10:33:29  [ pool-1-thread-1:144526 ] - [ INFO ]  爬取https://bj.lianjia.com/ershoufang/shangdi1/?sug=%E4%B8%8A%E5%9C%B0上的内容,proxy ip:61.163.39.70:9999
+2017-06-14 10:35:08  [ main:0 ] - [ INFO ]  开始加载检测kuaidaili上的代理
+2017-06-14 10:35:18  [ main:9941 ] - [ INFO ]  初始化添加代理，27.46.40.26:9797
+2017-06-14 10:35:20  [ main:12000 ] - [ WARN ]  Connect to 27.46.40.26:9797 [/27.46.40.26] failed: connect timed out
+2017-06-14 10:36:24  [ main:0 ] - [ INFO ]  开始加载检测kuaidaili上的代理
+2017-06-14 10:36:41  [ main:16318 ] - [ INFO ]  初始化添加代理，27.46.40.26:9797
+2017-06-14 10:36:43  [ main:18389 ] - [ WARN ]  Connect to 27.46.40.26:9797 [/27.46.40.26] failed: connect timed out
+2017-06-14 10:36:43  [ main:18389 ] - [ INFO ]  初始化添加代理，218.66.253.145:8800
+2017-06-14 10:36:43  [ main:18544 ] - [ INFO ]  初始化添加代理，60.191.164.83:3128
+2017-06-14 10:36:46  [ main:22035 ] - [ WARN ]  Remote host closed connection during handshake
+2017-06-14 10:36:46  [ main:22036 ] - [ INFO ]  初始化添加代理，60.160.128.10:9999
+2017-06-14 10:36:48  [ main:24038 ] - [ WARN ]  Connect to 60.160.128.10:9999 [/60.160.128.10] failed: connect timed out
+2017-06-14 10:36:48  [ main:24039 ] - [ INFO ]  初始化添加代理，218.75.116.58:9999
+2017-06-14 10:36:50  [ main:26042 ] - [ WARN ]  Connect to 218.75.116.58:9999 [/218.75.116.58] failed: connect timed out
+2017-06-14 10:36:50  [ main:26043 ] - [ INFO ]  初始化添加代理，106.3.240.209:8080
+2017-06-14 10:36:52  [ main:28046 ] - [ WARN ]  Connect to 106.3.240.209:8080 [/106.3.240.209] failed: connect timed out
+2017-06-14 10:36:52  [ main:28046 ] - [ INFO ]  初始化添加代理，183.45.172.117:9797
+2017-06-14 10:36:54  [ main:30049 ] - [ WARN ]  Connect to 183.45.172.117:9797 [/183.45.172.117] failed: connect timed out
+2017-06-14 10:36:54  [ main:30049 ] - [ INFO ]  初始化添加代理，58.62.207.51:9999
+2017-06-14 10:36:56  [ main:32052 ] - [ WARN ]  Connect to 58.62.207.51:9999 [/58.62.207.51] failed: connect timed out
+2017-06-14 10:36:56  [ main:32053 ] - [ INFO ]  初始化添加代理，60.160.128.10:9797
+2017-06-14 10:36:58  [ main:34056 ] - [ WARN ]  Connect to 60.160.128.10:9797 [/60.160.128.10] failed: connect timed out
+2017-06-14 10:36:58  [ main:34056 ] - [ INFO ]  初始化添加代理，125.93.148.112:9000
+2017-06-14 10:37:00  [ main:36058 ] - [ WARN ]  Connect to 125.93.148.112:9000 [/125.93.148.112] failed: connect timed out
+2017-06-14 10:37:00  [ main:36059 ] - [ INFO ]  初始化添加代理，163.125.156.69:8888
+2017-06-14 10:37:02  [ main:38062 ] - [ WARN ]  Connect to 163.125.156.69:8888 [/163.125.156.69] failed: connect timed out
+2017-06-14 10:37:02  [ main:38063 ] - [ INFO ]  初始化添加代理，218.56.132.158:8080
+2017-06-14 10:37:04  [ main:40066 ] - [ WARN ]  Connect to 218.56.132.158:8080 [/218.56.132.158] failed: connect timed out
+2017-06-14 10:37:04  [ main:40067 ] - [ INFO ]  初始化添加代理，117.114.153.242:9999
+2017-06-14 10:37:06  [ main:42071 ] - [ WARN ]  Connect to 117.114.153.242:9999 [/117.114.153.242] failed: connect timed out
+2017-06-14 10:37:06  [ main:42071 ] - [ INFO ]  初始化添加代理，183.57.82.71:8081
+2017-06-14 10:37:08  [ main:44073 ] - [ WARN ]  Connect to 183.57.82.71:8081 [/183.57.82.71] failed: connect timed out
+2017-06-14 10:37:08  [ main:44075 ] - [ INFO ]  初始化添加代理，111.40.84.73:9999
+2017-06-14 10:37:10  [ main:46079 ] - [ WARN ]  Connect to 111.40.84.73:9999 [/111.40.84.73] failed: connect timed out
+2017-06-14 10:37:10  [ main:46079 ] - [ INFO ]  共加载15个代理，其中0个可用
+2017-06-14 10:37:10  [ main:46079 ] - [ INFO ]  close HttpCore
+2017-06-14 10:37:10  [ main:46085 ] - [ INFO ]  开始采集，url： https://bj.lianjia.com/ershoufang/shangdi1/?sug=%E4%B8%8A%E5%9C%B0
+2017-06-14 10:37:24  [ main:0 ] - [ INFO ]  开始加载检测kuaidaili上的代理
+2017-06-14 10:37:33  [ main:8950 ] - [ INFO ]  初始化添加代理，27.46.40.26:9797
+2017-06-14 10:37:35  [ main:11015 ] - [ WARN ]  Connect to 27.46.40.26:9797 [/27.46.40.26] failed: connect timed out
+2017-06-14 10:37:35  [ main:11016 ] - [ INFO ]  初始化添加代理，218.66.253.145:8800
+2017-06-14 10:37:35  [ main:11130 ] - [ INFO ]  初始化添加代理，60.191.164.83:3128
+2017-06-14 10:37:39  [ main:14779 ] - [ WARN ]  Remote host closed connection during handshake
+2017-06-14 10:37:39  [ main:14780 ] - [ INFO ]  初始化添加代理，60.160.128.10:9999
+2017-06-14 10:37:41  [ main:16783 ] - [ WARN ]  Connect to 60.160.128.10:9999 [/60.160.128.10] failed: connect timed out
+2017-06-14 10:37:41  [ main:16783 ] - [ INFO ]  初始化添加代理，218.75.116.58:9999
+2017-06-14 10:37:54  [ main:29586 ] - [ WARN ]  Read timed out
+2017-06-14 10:37:54  [ main:29587 ] - [ INFO ]  初始化添加代理，106.3.240.209:8080
+2017-06-14 10:37:56  [ main:31589 ] - [ WARN ]  Connect to 106.3.240.209:8080 [/106.3.240.209] failed: connect timed out
+2017-06-14 10:37:56  [ main:31589 ] - [ INFO ]  初始化添加代理，183.45.172.117:9797
+2017-06-14 10:38:05  [ main:41024 ] - [ WARN ]  Read timed out
+2017-06-14 10:38:05  [ main:41038 ] - [ INFO ]  初始化添加代理，58.62.207.51:9999
+2017-06-14 10:38:09  [ main:44942 ] - [ WARN ]  Connect to 58.62.207.51:9999 [/58.62.207.51] failed: connect timed out
+2017-06-14 10:38:09  [ main:44944 ] - [ INFO ]  初始化添加代理，60.160.128.10:9797
+2017-06-14 10:38:19  [ main:55082 ] - [ INFO ]  初始化添加代理，125.93.148.112:9000
+2017-06-14 10:38:21  [ main:57086 ] - [ WARN ]  Connect to 125.93.148.112:9000 [/125.93.148.112] failed: connect timed out
+2017-06-14 10:38:21  [ main:57086 ] - [ INFO ]  初始化添加代理，163.125.156.69:8888
+2017-06-14 10:38:23  [ main:59090 ] - [ WARN ]  Connect to 163.125.156.69:8888 [/163.125.156.69] failed: connect timed out
+2017-06-14 10:38:23  [ main:59090 ] - [ INFO ]  初始化添加代理，218.56.132.158:8080
+2017-06-14 10:39:28  [ main:123813 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 10:39:28  [ main:123813 ] - [ INFO ]  初始化添加代理，117.114.153.242:9999
+2017-06-14 10:39:30  [ main:125818 ] - [ WARN ]  Connect to 117.114.153.242:9999 [/117.114.153.242] failed: connect timed out
+2017-06-14 10:39:30  [ main:125819 ] - [ INFO ]  初始化添加代理，183.57.82.71:8081
+2017-06-14 10:39:32  [ main:127827 ] - [ WARN ]  Connect to 183.57.82.71:8081 [/183.57.82.71] failed: connect timed out
+2017-06-14 10:39:32  [ main:127828 ] - [ INFO ]  初始化添加代理，111.40.84.73:9999
+2017-06-14 10:39:33  [ main:128769 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.40.84.73:9999->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:39:33  [ main:128770 ] - [ INFO ]  Retrying request to {tls}->http://111.40.84.73:9999->https://bj.lianjia.com:443
+2017-06-14 10:39:35  [ main:130774 ] - [ WARN ]  Connect to 111.40.84.73:9999 [/111.40.84.73] failed: connect timed out
+2017-06-14 10:39:35  [ main:130774 ] - [ INFO ]  共加载15个代理，其中1个可用
+2017-06-14 10:39:35  [ main:130774 ] - [ INFO ]  60.160.128.10:9797
+2017-06-14 10:39:35  [ main:130775 ] - [ INFO ]  close HttpCore
+2017-06-14 10:39:35  [ main:130779 ] - [ INFO ]  开始采集，url： https://bj.lianjia.com/ershoufang/shangdi1/?sug=%E4%B8%8A%E5%9C%B0
+2017-06-14 10:39:35  [ pool-1-thread-1:130793 ] - [ INFO ]  爬取https://bj.lianjia.com/ershoufang/shangdi1/?sug=%E4%B8%8A%E5%9C%B0上的内容,proxy ip:60.160.128.10:9797
+2017-06-14 10:39:39  [ pool-1-thread-1:134796 ] - [ WARN ]  Connection reset
+2017-06-14 10:42:35  [ main:0 ] - [ INFO ]  开始加载检测kuaidaili上的代理
+2017-06-14 10:42:52  [ main:16465 ] - [ INFO ]  初始化添加代理，27.46.40.26:9797
+2017-06-14 10:43:08  [ main:32569 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://27.46.40.26:9797->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:43:08  [ main:32571 ] - [ INFO ]  Retrying request to {tls}->http://27.46.40.26:9797->https://bj.lianjia.com:443
+2017-06-14 10:43:10  [ main:34575 ] - [ WARN ]  Connect to 27.46.40.26:9797 [/27.46.40.26] failed: connect timed out
+2017-06-14 10:43:10  [ main:34576 ] - [ INFO ]  初始化添加代理，218.66.253.145:8800
+2017-06-14 10:43:10  [ main:34691 ] - [ INFO ]  初始化添加代理，60.191.164.83:3128
+2017-06-14 10:43:15  [ main:39564 ] - [ WARN ]  Remote host closed connection during handshake
+2017-06-14 10:43:15  [ main:39564 ] - [ INFO ]  初始化添加代理，60.160.128.10:9999
+2017-06-14 10:43:17  [ main:41568 ] - [ WARN ]  Connect to 60.160.128.10:9999 [/60.160.128.10] failed: connect timed out
+2017-06-14 10:43:17  [ main:41568 ] - [ INFO ]  初始化添加代理，218.75.116.58:9999
+2017-06-14 10:43:19  [ main:43571 ] - [ WARN ]  Connect to 218.75.116.58:9999 [/218.75.116.58] failed: connect timed out
+2017-06-14 10:43:19  [ main:43572 ] - [ INFO ]  初始化添加代理，106.3.240.209:8080
+2017-06-14 10:43:21  [ main:45575 ] - [ WARN ]  Connect to 106.3.240.209:8080 [/106.3.240.209] failed: connect timed out
+2017-06-14 10:43:21  [ main:45576 ] - [ INFO ]  初始化添加代理，183.45.172.117:9797
+2017-06-14 10:43:23  [ main:47580 ] - [ WARN ]  Connect to 183.45.172.117:9797 [/183.45.172.117] failed: connect timed out
+2017-06-14 10:43:23  [ main:47585 ] - [ INFO ]  初始化添加代理，58.62.207.51:9999
+2017-06-14 10:44:02  [ main:86855 ] - [ WARN ]  Connect to 58.62.207.51:9999 [/58.62.207.51] failed: connect timed out
+2017-06-14 10:44:02  [ main:86856 ] - [ INFO ]  初始化添加代理，60.160.128.10:9797
+2017-06-14 10:44:04  [ main:88860 ] - [ WARN ]  Connect to 60.160.128.10:9797 [/60.160.128.10] failed: connect timed out
+2017-06-14 10:44:04  [ main:88860 ] - [ INFO ]  初始化添加代理，125.93.148.112:9000
+2017-06-14 10:44:06  [ main:90864 ] - [ WARN ]  Connect to 125.93.148.112:9000 [/125.93.148.112] failed: connect timed out
+2017-06-14 10:44:06  [ main:90864 ] - [ INFO ]  初始化添加代理，163.125.156.69:8888
+2017-06-14 10:44:08  [ main:92868 ] - [ WARN ]  Connect to 163.125.156.69:8888 [/163.125.156.69] failed: connect timed out
+2017-06-14 10:44:08  [ main:92868 ] - [ INFO ]  初始化添加代理，218.56.132.158:8080
+2017-06-14 10:44:10  [ main:94873 ] - [ WARN ]  Connect to 218.56.132.158:8080 [/218.56.132.158] failed: connect timed out
+2017-06-14 10:44:10  [ main:94873 ] - [ INFO ]  初始化添加代理，117.114.153.242:9999
+2017-06-14 10:44:12  [ main:96876 ] - [ WARN ]  Connect to 117.114.153.242:9999 [/117.114.153.242] failed: connect timed out
+2017-06-14 10:44:12  [ main:96877 ] - [ INFO ]  初始化添加代理，183.57.82.71:8081
+2017-06-14 10:44:14  [ main:98880 ] - [ WARN ]  Connect to 183.57.82.71:8081 [/183.57.82.71] failed: connect timed out
+2017-06-14 10:44:14  [ main:98880 ] - [ INFO ]  初始化添加代理，111.40.84.73:9999
+2017-06-14 10:44:22  [ main:106931 ] - [ INFO ]  初始化添加代理，61.163.39.70:9999
+2017-06-14 10:44:29  [ main:113902 ] - [ WARN ]  Connect to 61.163.39.70:9999 [/61.163.39.70] failed: connect timed out
+2017-06-14 10:44:29  [ main:113902 ] - [ INFO ]  初始化添加代理，113.122.106.243:9000
+2017-06-14 10:44:31  [ main:115906 ] - [ WARN ]  Connect to 113.122.106.243:9000 [/113.122.106.243] failed: connect timed out
+2017-06-14 10:44:31  [ main:115907 ] - [ INFO ]  初始化添加代理，183.31.255.184:9999
+2017-06-14 10:44:33  [ main:117910 ] - [ WARN ]  Connect to 183.31.255.184:9999 [/183.31.255.184] failed: connect timed out
+2017-06-14 10:44:33  [ main:117910 ] - [ INFO ]  初始化添加代理，116.23.139.238:9999
+2017-06-14 10:44:54  [ main:138940 ] - [ INFO ]  初始化添加代理，111.11.98.58:9000
+2017-06-14 10:44:56  [ main:140942 ] - [ WARN ]  Connect to 111.11.98.58:9000 [/111.11.98.58] failed: connect timed out
+2017-06-14 10:44:56  [ main:140943 ] - [ INFO ]  初始化添加代理，122.152.193.86:8088
+2017-06-14 10:44:57  [ main:141074 ] - [ INFO ]  初始化添加代理，58.62.207.53:9999
+2017-06-14 10:44:59  [ main:143078 ] - [ WARN ]  Connect to 58.62.207.53:9999 [/58.62.207.53] failed: connect timed out
+2017-06-14 10:44:59  [ main:143079 ] - [ INFO ]  初始化添加代理，124.202.247.110:8080
+2017-06-14 10:45:01  [ main:145082 ] - [ WARN ]  Connect to 124.202.247.110:8080 [/124.202.247.110] failed: connect timed out
+2017-06-14 10:45:01  [ main:145083 ] - [ INFO ]  初始化添加代理，221.237.154.57:9999
+2017-06-14 10:45:03  [ main:147086 ] - [ WARN ]  Connect to 221.237.154.57:9999 [/221.237.154.57] failed: connect timed out
+2017-06-14 10:45:03  [ main:147086 ] - [ INFO ]  初始化添加代理，120.204.85.29:3128
+2017-06-14 10:45:03  [ main:147159 ] - [ WARN ]  Connect to 120.204.85.29:3128 [/120.204.85.29] failed: 拒绝连接
+2017-06-14 10:45:03  [ main:147159 ] - [ INFO ]  初始化添加代理，218.56.132.157:8080
+2017-06-14 10:46:06  [ main:211011 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 10:46:06  [ main:211011 ] - [ INFO ]  初始化添加代理，47.93.43.229:3128
+2017-06-14 10:46:06  [ main:211034 ] - [ WARN ]  Connect to 47.93.43.229:3128 [/47.93.43.229] failed: 拒绝连接
+2017-06-14 10:46:07  [ main:211035 ] - [ INFO ]  初始化添加代理，221.237.154.57:9999
+2017-06-14 10:46:09  [ main:213344 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://221.237.154.57:9999->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:46:09  [ main:213344 ] - [ INFO ]  Retrying request to {tls}->http://221.237.154.57:9999->https://bj.lianjia.com:443
+2017-06-14 10:46:11  [ main:215205 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://221.237.154.57:9999->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:46:11  [ main:215206 ] - [ INFO ]  Retrying request to {tls}->http://221.237.154.57:9999->https://bj.lianjia.com:443
+2017-06-14 10:46:18  [ main:222785 ] - [ WARN ]  Connect to 221.237.154.57:9999 [/221.237.154.57] failed: connect timed out
+2017-06-14 10:46:18  [ main:222785 ] - [ INFO ]  初始化添加代理，120.132.26.17:8080
+2017-06-14 10:46:20  [ main:224788 ] - [ WARN ]  Connect to 120.132.26.17:8080 [/120.132.26.17] failed: connect timed out
+2017-06-14 10:46:20  [ main:224788 ] - [ INFO ]  初始化添加代理，60.191.157.20:3128
+2017-06-14 10:46:20  [ main:224949 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:46:20  [ main:224950 ] - [ INFO ]  Retrying request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443
+2017-06-14 10:46:21  [ main:225070 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:46:21  [ main:225070 ] - [ INFO ]  Retrying request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443
+2017-06-14 10:46:21  [ main:225183 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:46:21  [ main:225183 ] - [ INFO ]  Retrying request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443
+2017-06-14 10:46:21  [ main:225302 ] - [ WARN ]  Connection reset
+2017-06-14 10:46:26  [ main:230404 ] - [ INFO ]  初始化添加代理，183.45.172.31:9797
+2017-06-14 10:46:35  [ main:239498 ] - [ INFO ]  初始化添加代理，112.95.204.12:8888
+2017-06-14 10:46:37  [ main:241501 ] - [ WARN ]  Connect to 112.95.204.12:8888 [/112.95.204.12] failed: connect timed out
+2017-06-14 10:46:37  [ main:241502 ] - [ INFO ]  初始化添加代理，119.57.144.253:8080
+2017-06-14 10:46:39  [ main:243508 ] - [ WARN ]  Connect to 119.57.144.253:8080 [/119.57.144.253] failed: connect timed out
+2017-06-14 10:46:39  [ main:243509 ] - [ INFO ]  初始化添加代理，27.46.74.37:9999
+2017-06-14 10:46:41  [ main:245513 ] - [ WARN ]  Connect to 27.46.74.37:9999 [/27.46.74.37] failed: connect timed out
+2017-06-14 10:46:41  [ main:245513 ] - [ INFO ]  初始化添加代理，222.74.225.231:3128
+2017-06-14 10:47:01  [ main:265180 ] - [ INFO ]  初始化添加代理，27.46.74.53:9999
+2017-06-14 10:47:03  [ main:267184 ] - [ WARN ]  Connect to 27.46.74.53:9999 [/27.46.74.53] failed: connect timed out
+2017-06-14 10:47:03  [ main:267184 ] - [ INFO ]  初始化添加代理，218.56.132.154:8080
+2017-06-14 10:47:05  [ main:269186 ] - [ WARN ]  Connect to 218.56.132.154:8080 [/218.56.132.154] failed: connect timed out
+2017-06-14 10:47:05  [ main:269186 ] - [ INFO ]  初始化添加代理，60.205.176.13:3128
+2017-06-14 10:48:17  [ main:341787 ] - [ WARN ]  Read timed out
+2017-06-14 10:48:17  [ main:341787 ] - [ INFO ]  初始化添加代理，218.56.132.157:8080
+2017-06-14 10:48:19  [ main:343791 ] - [ WARN ]  Connect to 218.56.132.157:8080 [/218.56.132.157] failed: connect timed out
+2017-06-14 10:48:19  [ main:343792 ] - [ INFO ]  初始化添加代理，36.36.178.226:8080
+2017-06-14 10:48:27  [ main:351920 ] - [ WARN ]  Read timed out
+2017-06-14 10:48:27  [ main:351921 ] - [ INFO ]  初始化添加代理，112.95.204.13:8888
+2017-06-14 10:48:29  [ main:353925 ] - [ WARN ]  Connect to 112.95.204.13:8888 [/112.95.204.13] failed: connect timed out
+2017-06-14 10:48:29  [ main:353926 ] - [ INFO ]  初始化添加代理，1.119.129.2:8080
+2017-06-14 10:48:31  [ main:355928 ] - [ WARN ]  Connect to 1.119.129.2:8080 [/1.119.129.2] failed: connect timed out
+2017-06-14 10:48:31  [ main:355928 ] - [ INFO ]  初始化添加代理，121.8.170.53:9797
+2017-06-14 10:48:33  [ main:357931 ] - [ WARN ]  Connect to 121.8.170.53:9797 [/121.8.170.53] failed: connect timed out
+2017-06-14 10:48:33  [ main:357931 ] - [ INFO ]  初始化添加代理，223.156.238.126:9000
+2017-06-14 10:48:49  [ main:373395 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://223.156.238.126:9000->https://bj.lianjia.com:443: Connection reset
+2017-06-14 10:48:49  [ main:373395 ] - [ INFO ]  Retrying request to {tls}->http://223.156.238.126:9000->https://bj.lianjia.com:443
+2017-06-14 10:48:51  [ main:375399 ] - [ WARN ]  Connect to 223.156.238.126:9000 [/223.156.238.126] failed: connect timed out
+2017-06-14 10:48:51  [ main:375399 ] - [ INFO ]  初始化添加代理，119.120.31.96:808
+2017-06-14 10:48:53  [ main:377402 ] - [ WARN ]  Connect to 119.120.31.96:808 [/119.120.31.96] failed: connect timed out
+2017-06-14 10:48:58  [ main:382499 ] - [ INFO ]  初始化添加代理，218.56.132.157:8080
+2017-06-14 10:50:02  [ main:447008 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 10:50:02  [ main:447008 ] - [ INFO ]  初始化添加代理，116.253.240.119:9000
+2017-06-14 10:50:04  [ main:449011 ] - [ WARN ]  Connect to 116.253.240.119:9000 [/116.253.240.119] failed: connect timed out
+2017-06-14 10:50:04  [ main:449011 ] - [ INFO ]  初始化添加代理，45.221.217.197:8080
+2017-06-14 10:50:06  [ main:451014 ] - [ WARN ]  Connect to 45.221.217.197:8080 [/45.221.217.197] failed: connect timed out
+2017-06-14 10:50:06  [ main:451015 ] - [ INFO ]  初始化添加代理，58.62.207.52:9999
+2017-06-14 10:50:08  [ main:453018 ] - [ WARN ]  Connect to 58.62.207.52:9999 [/58.62.207.52] failed: connect timed out
+2017-06-14 10:50:08  [ main:453019 ] - [ INFO ]  初始化添加代理，27.215.2.146:9999
+2017-06-14 10:50:09  [ main:453056 ] - [ WARN ]  Connect to 27.215.2.146:9999 [/27.215.2.146] failed: 拒绝连接
+2017-06-14 10:50:09  [ main:453057 ] - [ INFO ]  初始化添加代理，61.163.39.70:9999
+2017-06-14 10:50:11  [ main:455916 ] - [ WARN ]  Read timed out
+2017-06-14 10:50:11  [ main:455916 ] - [ INFO ]  初始化添加代理，183.31.69.49:9000
+2017-06-14 10:50:11  [ main:455959 ] - [ WARN ]  Connect to 183.31.69.49:9000 [/183.31.69.49] failed: 拒绝连接
+2017-06-14 10:50:11  [ main:455959 ] - [ INFO ]  初始化添加代理，117.158.198.74:9797
+2017-06-14 10:50:13  [ main:457963 ] - [ WARN ]  Connect to 117.158.198.74:9797 [/117.158.198.74] failed: connect timed out
+2017-06-14 10:50:13  [ main:457964 ] - [ INFO ]  初始化添加代理，60.185.140.98:3128
+2017-06-14 10:50:13  [ main:457998 ] - [ WARN ]  Connect to 60.185.140.98:3128 [/60.185.140.98] failed: 拒绝连接
+2017-06-14 10:50:13  [ main:457999 ] - [ INFO ]  初始化添加代理，112.95.204.176:8888
+2017-06-14 10:50:14  [ main:458041 ] - [ WARN ]  Connect to 112.95.204.176:8888 [/112.95.204.176] failed: 拒绝连接
+2017-06-14 10:50:14  [ main:458042 ] - [ INFO ]  初始化添加代理，116.23.139.238:9999
+2017-06-14 10:50:16  [ main:460046 ] - [ WARN ]  Connect to 116.23.139.238:9999 [/116.23.139.238] failed: connect timed out
+2017-06-14 10:50:16  [ main:460047 ] - [ INFO ]  初始化添加代理，120.132.26.2:8080
+2017-06-14 10:50:17  [ main:461373 ] - [ WARN ]  sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2017-06-14 10:50:17  [ main:461374 ] - [ INFO ]  初始化添加代理，112.95.204.163:8888
+2017-06-14 10:50:17  [ main:461415 ] - [ WARN ]  Connect to 112.95.204.163:8888 [/112.95.204.163] failed: 拒绝连接
+2017-06-14 10:50:17  [ main:461416 ] - [ INFO ]  初始化添加代理，218.18.10.234:9000
+2017-06-14 10:50:19  [ main:463423 ] - [ WARN ]  Connect to 218.18.10.234:9000 [/218.18.10.234] failed: connect timed out
+2017-06-14 10:50:19  [ main:463424 ] - [ INFO ]  初始化添加代理，112.95.204.177:8888
+2017-06-14 10:50:21  [ main:465426 ] - [ WARN ]  Connect to 112.95.204.177:8888 [/112.95.204.177] failed: connect timed out
+2017-06-14 10:50:26  [ main:470460 ] - [ INFO ]  初始化添加代理，43.241.225.147:3128
+2017-06-14 11:03:25  [ main:0 ] - [ INFO ]  开始加载检测kuaidaili上的代理
+2017-06-14 11:03:41  [ main:16344 ] - [ INFO ]  初始化添加代理，27.46.40.26:9797
+2017-06-14 11:03:44  [ main:18418 ] - [ WARN ]  Connect to 27.46.40.26:9797 [/27.46.40.26] failed: connect timed out
+2017-06-14 11:03:44  [ main:18419 ] - [ INFO ]  初始化添加代理，218.66.253.145:8800
+2017-06-14 11:03:44  [ main:18659 ] - [ INFO ]  初始化添加代理，60.191.164.83:3128
+2017-06-14 11:03:46  [ main:20680 ] - [ WARN ]  Connect to 60.191.164.83:3128 [/60.191.164.83] failed: connect timed out
+2017-06-14 11:03:46  [ main:20681 ] - [ INFO ]  初始化添加代理，60.160.128.10:9999
+2017-06-14 11:03:48  [ main:22688 ] - [ WARN ]  Connect to 60.160.128.10:9999 [/60.160.128.10] failed: connect timed out
+2017-06-14 11:03:48  [ main:22689 ] - [ INFO ]  初始化添加代理，218.75.116.58:9999
+2017-06-14 11:03:50  [ main:24695 ] - [ WARN ]  Connect to 218.75.116.58:9999 [/218.75.116.58] failed: connect timed out
+2017-06-14 11:03:50  [ main:24696 ] - [ INFO ]  初始化添加代理，106.3.240.209:8080
+2017-06-14 11:03:52  [ main:26702 ] - [ WARN ]  Connect to 106.3.240.209:8080 [/106.3.240.209] failed: connect timed out
+2017-06-14 11:03:52  [ main:26702 ] - [ INFO ]  初始化添加代理，183.45.172.117:9797
+2017-06-14 11:04:02  [ main:36449 ] - [ WARN ]  Read timed out
+2017-06-14 11:04:02  [ main:36452 ] - [ INFO ]  初始化添加代理，58.62.207.51:9999
+2017-06-14 11:04:04  [ main:38461 ] - [ WARN ]  Connect to 58.62.207.51:9999 [/58.62.207.51] failed: connect timed out
+2017-06-14 11:04:04  [ main:38463 ] - [ INFO ]  初始化添加代理，60.160.128.10:9797
+2017-06-14 11:04:07  [ main:41518 ] - [ INFO ]  初始化添加代理，125.93.148.112:9000
+2017-06-14 11:04:15  [ main:49588 ] - [ WARN ]  Read timed out
+2017-06-14 11:04:15  [ main:49590 ] - [ INFO ]  初始化添加代理，163.125.156.69:8888
+2017-06-14 11:04:17  [ main:51596 ] - [ WARN ]  Connect to 163.125.156.69:8888 [/163.125.156.69] failed: connect timed out
+2017-06-14 11:04:17  [ main:51597 ] - [ INFO ]  初始化添加代理，218.56.132.158:8080
+2017-06-14 11:05:22  [ main:116477 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 11:05:22  [ main:116477 ] - [ INFO ]  初始化添加代理，117.114.153.242:9999
+2017-06-14 11:05:37  [ main:132292 ] - [ WARN ]  Connect to 117.114.153.242:9999 [/117.114.153.242] failed: connect timed out
+2017-06-14 11:05:37  [ main:132293 ] - [ INFO ]  初始化添加代理，183.57.82.71:8081
+2017-06-14 11:05:39  [ main:134300 ] - [ WARN ]  Connect to 183.57.82.71:8081 [/183.57.82.71] failed: connect timed out
+2017-06-14 11:05:39  [ main:134300 ] - [ INFO ]  初始化添加代理，111.40.84.73:9999
+2017-06-14 11:05:41  [ main:136309 ] - [ WARN ]  Connect to 111.40.84.73:9999 [/111.40.84.73] failed: connect timed out
+2017-06-14 11:05:47  [ main:141464 ] - [ INFO ]  初始化添加代理，61.163.39.70:9999
+2017-06-14 11:05:50  [ main:145347 ] - [ WARN ]  Connect to 61.163.39.70:9999 [/61.163.39.70] failed: connect timed out
+2017-06-14 11:05:50  [ main:145348 ] - [ INFO ]  初始化添加代理，113.122.106.243:9000
+2017-06-14 11:05:52  [ main:147354 ] - [ WARN ]  Connect to 113.122.106.243:9000 [/113.122.106.243] failed: connect timed out
+2017-06-14 11:05:52  [ main:147355 ] - [ INFO ]  初始化添加代理，183.31.255.184:9999
+2017-06-14 11:05:57  [ main:152374 ] - [ WARN ]  Connect to 183.31.255.184:9999 [/183.31.255.184] failed: connect timed out
+2017-06-14 11:05:57  [ main:152375 ] - [ INFO ]  初始化添加代理，116.23.139.238:9999
+2017-06-14 11:05:59  [ main:154379 ] - [ WARN ]  Connect to 116.23.139.238:9999 [/116.23.139.238] failed: connect timed out
+2017-06-14 11:05:59  [ main:154379 ] - [ INFO ]  初始化添加代理，111.11.98.58:9000
+2017-06-14 11:06:19  [ main:173495 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://111.11.98.58:9000->https://bj.lianjia.com:443: Connection reset
+2017-06-14 11:06:19  [ main:173497 ] - [ INFO ]  Retrying request to {tls}->http://111.11.98.58:9000->https://bj.lianjia.com:443
+2017-06-14 11:06:21  [ main:175501 ] - [ WARN ]  Connect to 111.11.98.58:9000 [/111.11.98.58] failed: connect timed out
+2017-06-14 11:06:21  [ main:175502 ] - [ INFO ]  初始化添加代理，122.152.193.86:8088
+2017-06-14 11:06:21  [ main:175892 ] - [ INFO ]  初始化添加代理，58.62.207.53:9999
+2017-06-14 11:06:23  [ main:177899 ] - [ WARN ]  Connect to 58.62.207.53:9999 [/58.62.207.53] failed: connect timed out
+2017-06-14 11:06:23  [ main:177900 ] - [ INFO ]  初始化添加代理，124.202.247.110:8080
+2017-06-14 11:06:25  [ main:179908 ] - [ WARN ]  Connect to 124.202.247.110:8080 [/124.202.247.110] failed: connect timed out
+2017-06-14 11:06:25  [ main:179908 ] - [ INFO ]  初始化添加代理，221.237.154.57:9999
+2017-06-14 11:06:27  [ main:181918 ] - [ WARN ]  Connect to 221.237.154.57:9999 [/221.237.154.57] failed: connect timed out
+2017-06-14 11:06:27  [ main:181919 ] - [ INFO ]  初始化添加代理，120.204.85.29:3128
+2017-06-14 11:06:27  [ main:182017 ] - [ WARN ]  Connect to 120.204.85.29:3128 [/120.204.85.29] failed: 拒绝连接
+2017-06-14 11:06:27  [ main:182018 ] - [ INFO ]  初始化添加代理，218.56.132.157:8080
+2017-06-14 11:07:31  [ main:245754 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 11:07:31  [ main:245755 ] - [ INFO ]  初始化添加代理，47.93.43.229:3128
+2017-06-14 11:07:31  [ main:245781 ] - [ WARN ]  Connect to 47.93.43.229:3128 [/47.93.43.229] failed: 拒绝连接
+2017-06-14 11:07:31  [ main:245782 ] - [ INFO ]  初始化添加代理，221.237.154.57:9999
+2017-06-14 11:07:33  [ main:247786 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://221.237.154.57:9999->https://bj.lianjia.com:443: Connection reset
+2017-06-14 11:07:33  [ main:247786 ] - [ INFO ]  Retrying request to {tls}->http://221.237.154.57:9999->https://bj.lianjia.com:443
+2017-06-14 11:07:35  [ main:249789 ] - [ WARN ]  Connect to 221.237.154.57:9999 [/221.237.154.57] failed: connect timed out
+2017-06-14 11:07:35  [ main:249790 ] - [ INFO ]  初始化添加代理，120.132.26.17:8080
+2017-06-14 11:07:37  [ main:251798 ] - [ WARN ]  Connect to 120.132.26.17:8080 [/120.132.26.17] failed: connect timed out
+2017-06-14 11:07:37  [ main:251799 ] - [ INFO ]  初始化添加代理，60.191.157.20:3128
+2017-06-14 11:07:37  [ main:251876 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443: Connection reset
+2017-06-14 11:07:37  [ main:251877 ] - [ INFO ]  Retrying request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443
+2017-06-14 11:07:37  [ main:251958 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443: Connection reset
+2017-06-14 11:07:37  [ main:251959 ] - [ INFO ]  Retrying request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443
+2017-06-14 11:07:37  [ main:252042 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443: Connection reset
+2017-06-14 11:07:37  [ main:252042 ] - [ INFO ]  Retrying request to {tls}->http://60.191.157.20:3128->https://bj.lianjia.com:443
+2017-06-14 11:07:37  [ main:252112 ] - [ WARN ]  Connection reset
+2017-06-14 11:07:42  [ main:257178 ] - [ INFO ]  初始化添加代理，183.45.172.31:9797
+2017-06-14 11:07:44  [ main:259183 ] - [ WARN ]  Connect to 183.45.172.31:9797 [/183.45.172.31] failed: connect timed out
+2017-06-14 11:07:44  [ main:259183 ] - [ INFO ]  初始化添加代理，112.95.204.12:8888
+2017-06-14 11:07:46  [ main:261189 ] - [ WARN ]  Connect to 112.95.204.12:8888 [/112.95.204.12] failed: connect timed out
+2017-06-14 11:07:46  [ main:261190 ] - [ INFO ]  初始化添加代理，119.57.144.253:8080
+2017-06-14 11:07:51  [ main:265952 ] - [ INFO ]  初始化添加代理，27.46.74.37:9999
+2017-06-14 11:07:53  [ main:267958 ] - [ WARN ]  Connect to 27.46.74.37:9999 [/27.46.74.37] failed: connect timed out
+2017-06-14 11:07:53  [ main:267958 ] - [ INFO ]  初始化添加代理，222.74.225.231:3128
+2017-06-14 11:07:55  [ main:269966 ] - [ WARN ]  Connect to 222.74.225.231:3128 [/222.74.225.231] failed: connect timed out
+2017-06-14 11:07:55  [ main:269967 ] - [ INFO ]  初始化添加代理，27.46.74.53:9999
+2017-06-14 11:07:57  [ main:271988 ] - [ WARN ]  Connect to 27.46.74.53:9999 [/27.46.74.53] failed: connect timed out
+2017-06-14 11:07:57  [ main:271988 ] - [ INFO ]  初始化添加代理，218.56.132.154:8080
+2017-06-14 11:09:01  [ main:335680 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 11:09:01  [ main:335680 ] - [ INFO ]  初始化添加代理，60.205.176.13:3128
+2017-06-14 11:09:03  [ main:337686 ] - [ WARN ]  Connect to 60.205.176.13:3128 [/60.205.176.13] failed: connect timed out
+2017-06-14 11:09:03  [ main:337687 ] - [ INFO ]  初始化添加代理，218.56.132.157:8080
+2017-06-14 11:10:08  [ main:402566 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 11:10:08  [ main:402566 ] - [ INFO ]  初始化添加代理，36.36.178.226:8080
+2017-06-14 11:10:24  [ main:418777 ] - [ INFO ]  初始化添加代理，112.95.204.13:8888
+2017-06-14 11:10:26  [ main:420783 ] - [ WARN ]  Connect to 112.95.204.13:8888 [/112.95.204.13] failed: connect timed out
+2017-06-14 11:10:26  [ main:420784 ] - [ INFO ]  初始化添加代理，1.119.129.2:8080
+2017-06-14 11:10:55  [ main:450357 ] - [ INFO ]  初始化添加代理，121.8.170.53:9797
+2017-06-14 11:10:57  [ main:452380 ] - [ WARN ]  Connect to 121.8.170.53:9797 [/121.8.170.53] failed: connect timed out
+2017-06-14 11:10:57  [ main:452380 ] - [ INFO ]  初始化添加代理，223.156.238.126:9000
+2017-06-14 11:11:00  [ main:454385 ] - [ WARN ]  Connect to 223.156.238.126:9000 [/223.156.238.126] failed: connect timed out
+2017-06-14 11:11:00  [ main:454386 ] - [ INFO ]  初始化添加代理，119.120.31.96:808
+2017-06-14 11:11:02  [ main:456391 ] - [ WARN ]  Connect to 119.120.31.96:808 [/119.120.31.96] failed: connect timed out
+2017-06-14 11:11:07  [ main:461427 ] - [ INFO ]  初始化添加代理，218.56.132.157:8080
+2017-06-14 11:12:10  [ main:525276 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 11:12:10  [ main:525276 ] - [ INFO ]  初始化添加代理，116.253.240.119:9000
+2017-06-14 11:12:12  [ main:527283 ] - [ WARN ]  Connect to 116.253.240.119:9000 [/116.253.240.119] failed: connect timed out
+2017-06-14 11:12:12  [ main:527284 ] - [ INFO ]  初始化添加代理，45.221.217.197:8080
+2017-06-14 11:12:14  [ main:529289 ] - [ WARN ]  Connect to 45.221.217.197:8080 [/45.221.217.197] failed: connect timed out
+2017-06-14 11:12:14  [ main:529289 ] - [ INFO ]  初始化添加代理，58.62.207.52:9999
+2017-06-14 11:12:16  [ main:531295 ] - [ WARN ]  Connect to 58.62.207.52:9999 [/58.62.207.52] failed: connect timed out
+2017-06-14 11:12:16  [ main:531296 ] - [ INFO ]  初始化添加代理，27.215.2.146:9999
+2017-06-14 11:12:16  [ main:531336 ] - [ WARN ]  Connect to 27.215.2.146:9999 [/27.215.2.146] failed: 拒绝连接
+2017-06-14 11:12:16  [ main:531336 ] - [ INFO ]  初始化添加代理，61.163.39.70:9999
+2017-06-14 11:12:21  [ main:535498 ] - [ WARN ]  Connect to 61.163.39.70:9999 [/61.163.39.70] failed: connect timed out
+2017-06-14 11:12:21  [ main:535499 ] - [ INFO ]  初始化添加代理，183.31.69.49:9000
+2017-06-14 11:12:21  [ main:535557 ] - [ WARN ]  Connect to 183.31.69.49:9000 [/183.31.69.49] failed: 拒绝连接
+2017-06-14 11:12:21  [ main:535558 ] - [ INFO ]  初始化添加代理，117.158.198.74:9797
+2017-06-14 11:12:23  [ main:537919 ] - [ INFO ]  初始化添加代理，60.185.140.98:3128
+2017-06-14 11:12:23  [ main:537962 ] - [ WARN ]  Connect to 60.185.140.98:3128 [/60.185.140.98] failed: 拒绝连接
+2017-06-14 11:12:23  [ main:537962 ] - [ INFO ]  初始化添加代理，112.95.204.176:8888
+2017-06-14 11:12:23  [ main:538010 ] - [ WARN ]  Connect to 112.95.204.176:8888 [/112.95.204.176] failed: 拒绝连接
+2017-06-14 11:12:23  [ main:538011 ] - [ INFO ]  初始化添加代理，116.23.139.238:9999
+2017-06-14 11:12:25  [ main:540023 ] - [ WARN ]  Connect to 116.23.139.238:9999 [/116.23.139.238] failed: connect timed out
+2017-06-14 11:12:25  [ main:540023 ] - [ INFO ]  初始化添加代理，120.132.26.2:8080
+2017-06-14 11:12:30  [ main:544408 ] - [ WARN ]  sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+2017-06-14 11:12:30  [ main:544408 ] - [ INFO ]  初始化添加代理，112.95.204.163:8888
+2017-06-14 11:12:30  [ main:544477 ] - [ WARN ]  Connect to 112.95.204.163:8888 [/112.95.204.163] failed: 拒绝连接
+2017-06-14 11:12:30  [ main:544478 ] - [ INFO ]  初始化添加代理，218.18.10.234:9000
+2017-06-14 11:12:32  [ main:546487 ] - [ WARN ]  Connect to 218.18.10.234:9000 [/218.18.10.234] failed: connect timed out
+2017-06-14 11:12:32  [ main:546487 ] - [ INFO ]  初始化添加代理，112.95.204.177:8888
+2017-06-14 11:12:34  [ main:548493 ] - [ WARN ]  Connect to 112.95.204.177:8888 [/112.95.204.177] failed: connect timed out
+2017-06-14 11:12:39  [ main:553522 ] - [ INFO ]  初始化添加代理，43.241.225.147:3128
+2017-06-14 11:12:57  [ main:571981 ] - [ WARN ]  Read timed out
+2017-06-14 11:12:57  [ main:571981 ] - [ INFO ]  初始化添加代理，183.57.82.71:8081
+2017-06-14 11:12:59  [ main:573985 ] - [ WARN ]  Connect to 183.57.82.71:8081 [/183.57.82.71] failed: connect timed out
+2017-06-14 11:12:59  [ main:573985 ] - [ INFO ]  初始化添加代理，120.132.26.33:8080
+2017-06-14 11:13:01  [ main:575991 ] - [ WARN ]  Connect to 120.132.26.33:8080 [/120.132.26.33] failed: connect timed out
+2017-06-14 11:13:01  [ main:575991 ] - [ INFO ]  初始化添加代理，116.23.137.233:9999
+2017-06-14 11:13:03  [ main:577996 ] - [ WARN ]  Connect to 116.23.137.233:9999 [/116.23.137.233] failed: connect timed out
+2017-06-14 11:13:03  [ main:577997 ] - [ INFO ]  初始化添加代理，123.59.85.20:80
+2017-06-14 11:13:22  [ main:597172 ] - [ WARN ]  Read timed out
+2017-06-14 11:13:22  [ main:597172 ] - [ INFO ]  初始化添加代理，218.56.132.154:8080
+2017-06-14 11:14:26  [ main:661285 ] - [ WARN ]  Unrecognized SSL message, plaintext connection?
+2017-06-14 11:14:26  [ main:661285 ] - [ INFO ]  初始化添加代理，42.157.7.43:9999
+2017-06-14 11:14:28  [ main:663290 ] - [ WARN ]  Connect to 42.157.7.43:9999 [/42.157.7.43] failed: connect timed out
+2017-06-14 11:14:28  [ main:663290 ] - [ INFO ]  初始化添加代理，123.59.85.20:80
+2017-06-14 11:14:30  [ main:665297 ] - [ WARN ]  Connect to 123.59.85.20:80 [/123.59.85.20] failed: connect timed out
+2017-06-14 11:14:30  [ main:665297 ] - [ INFO ]  初始化添加代理，111.20.214.25:9999
+2017-06-14 11:14:32  [ main:667306 ] - [ WARN ]  Connect to 111.20.214.25:9999 [/111.20.214.25] failed: connect timed out
+2017-06-14 11:14:32  [ main:667307 ] - [ INFO ]  初始化添加代理，222.133.16.134:8080
+2017-06-14 11:14:32  [ main:667359 ] - [ WARN ]  Connect to 222.133.16.134:8080 [/222.133.16.134] failed: 拒绝连接
+2017-06-14 11:14:32  [ main:667359 ] - [ INFO ]  初始化添加代理，27.46.22.252:8888
+2017-06-14 11:14:34  [ main:669367 ] - [ WARN ]  Connect to 27.46.22.252:8888 [/27.46.22.252] failed: connect timed out
+2017-06-14 11:14:34  [ main:669367 ] - [ INFO ]  初始化添加代理，27.46.74.29:9999
+2017-06-14 11:14:36  [ main:671373 ] - [ WARN ]  Connect to 27.46.74.29:9999 [/27.46.74.29] failed: connect timed out
+2017-06-14 11:14:36  [ main:671374 ] - [ INFO ]  初始化添加代理，119.135.185.99:9999
+2017-06-14 11:14:38  [ main:673380 ] - [ WARN ]  Connect to 119.135.185.99:9999 [/119.135.185.99] failed: connect timed out
+2017-06-14 11:14:38  [ main:673380 ] - [ INFO ]  初始化添加代理，119.122.214.168:9000
+2017-06-14 11:14:41  [ main:675385 ] - [ WARN ]  Connect to 119.122.214.168:9000 [/119.122.214.168] failed: connect timed out
+2017-06-14 11:14:41  [ main:675386 ] - [ INFO ]  初始化添加代理，121.8.243.51:8888
+2017-06-14 11:14:55  [ main:690103 ] - [ INFO ]  初始化添加代理，27.46.34.224:9797
+2017-06-14 11:14:55  [ main:690159 ] - [ WARN ]  Connect to 27.46.34.224:9797 [/27.46.34.224] failed: 拒绝连接
+2017-06-14 11:14:55  [ main:690160 ] - [ INFO ]  初始化添加代理，113.77.24.184:9000
+2017-06-14 11:14:57  [ main:692167 ] - [ WARN ]  Connect to 113.77.24.184:9000 [/113.77.24.184] failed: connect timed out
+2017-06-14 11:14:57  [ main:692167 ] - [ INFO ]  初始化添加代理，119.122.214.168:9000
+2017-06-14 11:14:59  [ main:694173 ] - [ WARN ]  Connect to 119.122.214.168:9000 [/119.122.214.168] failed: connect timed out
+2017-06-14 11:14:59  [ main:694173 ] - [ INFO ]  初始化添加代理，120.132.26.37:8080
+2017-06-14 11:15:01  [ main:696178 ] - [ WARN ]  Connect to 120.132.26.37:8080 [/120.132.26.37] failed: connect timed out
+2017-06-14 11:15:01  [ main:696179 ] - [ INFO ]  初始化添加代理，222.249.233.238:9000
+2017-06-14 11:15:22  [ main:716719 ] - [ INFO ]  初始化添加代理，116.28.105.201:808
+2017-06-14 11:15:24  [ main:718725 ] - [ WARN ]  Connect to 116.28.105.201:808 [/116.28.105.201] failed: connect timed out
+2017-06-14 11:15:24  [ main:718725 ] - [ INFO ]  初始化添加代理，121.41.6.85:3128
+2017-06-14 11:16:02  [ main:757273 ] - [ WARN ]  Read timed out
+2017-06-14 11:16:02  [ main:757274 ] - [ INFO ]  初始化添加代理，183.196.168.194:9000
+2017-06-14 11:16:04  [ main:759278 ] - [ WARN ]  Connect to 183.196.168.194:9000 [/183.196.168.194] failed: connect timed out
+2017-06-14 11:16:04  [ main:759278 ] - [ INFO ]  初始化添加代理，123.13.205.185:8080
+2017-06-14 11:16:06  [ main:761285 ] - [ WARN ]  Connect to 123.13.205.185:8080 [/123.13.205.185] failed: connect timed out
+2017-06-14 11:16:06  [ main:761285 ] - [ INFO ]  初始化添加代理，221.229.252.98:8080
+2017-06-14 11:16:08  [ main:763292 ] - [ WARN ]  Connect to 221.229.252.98:8080 [/221.229.252.98] failed: connect timed out
+2017-06-14 11:16:08  [ main:763292 ] - [ INFO ]  初始化添加代理，60.191.164.83:3128
+2017-06-14 11:16:14  [ main:768773 ] - [ WARN ]  Remote host closed connection during handshake
+2017-06-14 11:16:14  [ main:768773 ] - [ INFO ]  初始化添加代理，222.70.63.32:8088
+2017-06-14 11:16:16  [ main:770778 ] - [ WARN ]  Connect to 222.70.63.32:8088 [/222.70.63.32] failed: connect timed out
+2017-06-14 11:16:16  [ main:770779 ] - [ INFO ]  初始化添加代理，27.46.74.10:9999
+2017-06-14 11:16:16  [ main:770824 ] - [ WARN ]  Connect to 27.46.74.10:9999 [/27.46.74.10] failed: 拒绝连接
+2017-06-14 11:16:16  [ main:770825 ] - [ INFO ]  初始化添加代理，218.75.149.207:3128
+2017-06-14 11:16:17  [ main:772143 ] - [ WARN ]  Remote host closed connection during handshake
+2017-06-14 11:16:17  [ main:772144 ] - [ INFO ]  初始化添加代理，118.178.124.33:3128
+2017-06-14 11:16:25  [ main:780001 ] - [ INFO ]  初始化添加代理，42.196.254.188:8080
+2017-06-14 11:16:25  [ main:780057 ] - [ WARN ]  Connect to 42.196.254.188:8080 [/42.196.254.188] failed: 拒绝连接
+2017-06-14 11:16:25  [ main:780057 ] - [ INFO ]  初始化添加代理，119.135.185.99:9797
+2017-06-14 11:16:36  [ main:790414 ] - [ INFO ]  初始化添加代理，183.27.193.95:808
+2017-06-14 11:16:38  [ main:792421 ] - [ WARN ]  Connect to 183.27.193.95:808 [/183.27.193.95] failed: connect timed out
+2017-06-14 11:16:38  [ main:792421 ] - [ INFO ]  初始化添加代理，124.94.250.116:8080
+2017-06-14 11:16:38  [ main:792460 ] - [ WARN ]  Connect to 124.94.250.116:8080 [/124.94.250.116] failed: 拒绝连接
+2017-06-14 11:16:38  [ main:792460 ] - [ INFO ]  初始化添加代理，27.215.2.146:9999
+2017-06-14 11:16:38  [ main:792498 ] - [ WARN ]  Connect to 27.215.2.146:9999 [/27.215.2.146] failed: 拒绝连接
+2017-06-14 11:16:38  [ main:792499 ] - [ INFO ]  初始化添加代理，124.161.16.92:8080
+2017-06-14 11:16:40  [ main:794502 ] - [ WARN ]  Connect to 124.161.16.92:8080 [/124.161.16.92] failed: connect timed out
+2017-06-14 11:16:40  [ main:794502 ] - [ INFO ]  初始化添加代理，113.66.158.112:9797
+2017-06-14 11:16:42  [ main:796508 ] - [ WARN ]  Connect to 113.66.158.112:9797 [/113.66.158.112] failed: connect timed out
+2017-06-14 11:16:42  [ main:796508 ] - [ INFO ]  初始化添加代理，113.65.21.142:9797
+2017-06-14 11:17:06  [ main:820592 ] - [ INFO ]  初始化添加代理，183.196.170.247:9000
+2017-06-14 11:17:08  [ main:822596 ] - [ WARN ]  Connect to 183.196.170.247:9000 [/183.196.170.247] failed: connect timed out
+2017-06-14 11:17:08  [ main:822596 ] - [ INFO ]  初始化添加代理，218.75.116.58:9999
+2017-06-14 11:17:10  [ main:824602 ] - [ WARN ]  Connect to 218.75.116.58:9999 [/218.75.116.58] failed: connect timed out
+2017-06-14 11:17:10  [ main:824603 ] - [ INFO ]  初始化添加代理，101.86.112.186:9000
+2017-06-14 11:17:12  [ main:826605 ] - [ WARN ]  Connect to 101.86.112.186:9000 [/101.86.112.186] failed: connect timed out
+2017-06-14 11:17:12  [ main:826605 ] - [ INFO ]  初始化添加代理，120.84.238.96:8080
+2017-06-14 11:17:12  [ main:826653 ] - [ WARN ]  Connect to 120.84.238.96:8080 [/120.84.238.96] failed: 拒绝连接
+2017-06-14 11:17:12  [ main:826653 ] - [ INFO ]  初始化添加代理，119.122.212.17:9000
+2017-06-14 11:17:13  [ main:828028 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://119.122.212.17:9000->https://bj.lianjia.com:443: Connection reset
+2017-06-14 11:17:13  [ main:828028 ] - [ INFO ]  Retrying request to {tls}->http://119.122.212.17:9000->https://bj.lianjia.com:443
+2017-06-14 11:17:13  [ main:828066 ] - [ WARN ]  Connect to 119.122.212.17:9000 [/119.122.212.17] failed: 拒绝连接
+2017-06-14 11:17:13  [ main:828067 ] - [ INFO ]  初始化添加代理，59.42.40.5:808
+2017-06-14 11:17:13  [ main:828112 ] - [ WARN ]  Connect to 59.42.40.5:808 [/59.42.40.5] failed: 拒绝连接
+2017-06-14 11:17:13  [ main:828112 ] - [ INFO ]  初始化添加代理，111.177.124.140:9797
+2017-06-14 11:17:21  [ main:836378 ] - [ WARN ]  Connect to 111.177.124.140:9797 [/111.177.124.140] failed: connect timed out
+2017-06-14 11:17:27  [ main:841404 ] - [ INFO ]  初始化添加代理，58.62.207.52:9999
+2017-06-14 11:17:29  [ main:843410 ] - [ WARN ]  Connect to 58.62.207.52:9999 [/58.62.207.52] failed: connect timed out
+2017-06-14 11:17:29  [ main:843411 ] - [ INFO ]  初始化添加代理，163.125.18.68:8888
+2017-06-14 11:17:29  [ main:843482 ] - [ WARN ]  Connect to 163.125.18.68:8888 [/163.125.18.68] failed: 拒绝连接
+2017-06-14 11:17:29  [ main:843482 ] - [ INFO ]  初始化添加代理，183.57.82.71:8081
+2017-06-14 11:17:31  [ main:845486 ] - [ WARN ]  Connect to 183.57.82.71:8081 [/183.57.82.71] failed: connect timed out
+2017-06-14 11:17:31  [ main:845486 ] - [ INFO ]  初始化添加代理，60.160.128.10:9999
+2017-06-14 11:17:33  [ main:847491 ] - [ WARN ]  Connect to 60.160.128.10:9999 [/60.160.128.10] failed: connect timed out
+2017-06-14 11:17:33  [ main:847491 ] - [ INFO ]  初始化添加代理，36.36.178.226:9797
+2017-06-14 11:17:57  [ main:872239 ] - [ WARN ]  Read timed out
+2017-06-14 11:17:57  [ main:872239 ] - [ INFO ]  初始化添加代理，113.66.158.151:9797
+2017-06-14 11:17:59  [ main:874245 ] - [ WARN ]  Connect to 113.66.158.151:9797 [/113.66.158.151] failed: connect timed out
+2017-06-14 11:17:59  [ main:874246 ] - [ INFO ]  初始化添加代理，116.214.32.51:8080
+2017-06-14 11:18:01  [ main:876249 ] - [ WARN ]  Connect to 116.214.32.51:8080 [/116.214.32.51] failed: connect timed out
+2017-06-14 11:18:01  [ main:876249 ] - [ INFO ]  初始化添加代理，1.202.193.60:9000
+2017-06-14 11:18:03  [ main:878256 ] - [ WARN ]  Connect to 1.202.193.60:9000 [/1.202.193.60] failed: connect timed out
+2017-06-14 11:18:03  [ main:878256 ] - [ INFO ]  初始化添加代理，14.211.120.47:808
+2017-06-14 11:18:05  [ main:880261 ] - [ WARN ]  Connect to 14.211.120.47:808 [/14.211.120.47] failed: connect timed out
+2017-06-14 11:18:05  [ main:880261 ] - [ INFO ]  初始化添加代理，113.66.147.19:9999
+2017-06-14 11:18:07  [ main:882285 ] - [ WARN ]  Connect to 113.66.147.19:9999 [/113.66.147.19] failed: connect timed out
+2017-06-14 11:18:07  [ main:882286 ] - [ INFO ]  初始化添加代理，183.27.193.95:808
+2017-06-14 11:18:09  [ main:884292 ] - [ WARN ]  Connect to 183.27.193.95:808 [/183.27.193.95] failed: connect timed out
+2017-06-14 11:18:09  [ main:884292 ] - [ INFO ]  初始化添加代理，58.214.29.214:8080
+2017-06-14 11:18:11  [ main:886297 ] - [ WARN ]  Connect to 58.214.29.214:8080 [/58.214.29.214] failed: connect timed out
+2017-06-14 11:18:11  [ main:886297 ] - [ INFO ]  初始化添加代理，116.242.227.201:3128
+2017-06-14 11:18:13  [ main:887790 ] - [ WARN ]  Remote host closed connection during handshake
+2017-06-14 11:18:13  [ main:887790 ] - [ INFO ]  初始化添加代理，58.62.207.54:9999
+2017-06-14 11:18:15  [ main:889797 ] - [ WARN ]  Connect to 58.62.207.54:9999 [/58.62.207.54] failed: connect timed out
+2017-06-14 11:18:15  [ main:889797 ] - [ INFO ]  初始化添加代理，120.25.241.242:3128
+2017-06-14 11:18:15  [ main:889868 ] - [ WARN ]  Connect to 120.25.241.242:3128 [/120.25.241.242] failed: 拒绝连接
+2017-06-14 11:18:20  [ main:894929 ] - [ INFO ]  初始化添加代理，124.64.219.132:9000
+2017-06-14 11:18:20  [ main:894944 ] - [ WARN ]  Connect to 124.64.219.132:9000 [/124.64.219.132] failed: 拒绝连接
+2017-06-14 11:18:20  [ main:894945 ] - [ INFO ]  初始化添加代理，218.75.149.207:3128
+2017-06-14 11:18:22  [ main:896952 ] - [ WARN ]  Connect to 218.75.149.207:3128 [/218.75.149.207] failed: connect timed out
+2017-06-14 11:18:22  [ main:896953 ] - [ INFO ]  初始化添加代理，182.92.207.196:80
+2017-06-14 11:18:24  [ main:898956 ] - [ WARN ]  Connect to 182.92.207.196:80 [/182.92.207.196] failed: connect timed out
+2017-06-14 11:18:24  [ main:898957 ] - [ INFO ]  初始化添加代理，183.57.82.71:8081
+2017-06-14 11:18:26  [ main:900961 ] - [ WARN ]  Connect to 183.57.82.71:8081 [/183.57.82.71] failed: connect timed out
+2017-06-14 11:18:26  [ main:900962 ] - [ INFO ]  初始化添加代理，114.250.52.130:9000
+2017-06-14 11:18:38  [ main:913342 ] - [ WARN ]  Connect to 114.250.52.130:9000 [/114.250.52.130] failed: connect timed out
+2017-06-14 11:18:38  [ main:913343 ] - [ INFO ]  初始化添加代理，163.125.18.82:8888
+2017-06-14 11:18:39  [ main:913399 ] - [ WARN ]  Connect to 163.125.18.82:8888 [/163.125.18.82] failed: 拒绝连接
+2017-06-14 11:18:39  [ main:913399 ] - [ INFO ]  初始化添加代理，119.135.185.99:9999
+2017-06-14 11:18:41  [ main:915406 ] - [ WARN ]  Connect to 119.135.185.99:9999 [/119.135.185.99] failed: connect timed out
+2017-06-14 11:18:41  [ main:915406 ] - [ INFO ]  初始化添加代理，183.53.65.218:808
+2017-06-14 11:18:43  [ main:917415 ] - [ WARN ]  Connect to 183.53.65.218:808 [/183.53.65.218] failed: connect timed out
+2017-06-14 11:18:43  [ main:917416 ] - [ INFO ]  初始化添加代理，61.185.137.126:3128
+2017-06-14 11:19:05  [ main:939726 ] - [ INFO ]  初始化添加代理，119.57.112.130:8080
+2017-06-14 11:19:07  [ main:941730 ] - [ WARN ]  Connect to 119.57.112.130:8080 [/119.57.112.130] failed: connect timed out
+2017-06-14 11:19:07  [ main:941731 ] - [ INFO ]  初始化添加代理，221.217.34.54:9000
+2017-06-14 11:19:09  [ main:943736 ] - [ WARN ]  Connect to 221.217.34.54:9000 [/221.217.34.54] failed: connect timed out
+2017-06-14 11:19:09  [ main:943737 ] - [ INFO ]  初始化添加代理，124.161.16.93:8080
+2017-06-14 11:19:11  [ main:945742 ] - [ WARN ]  Connect to 124.161.16.93:8080 [/124.161.16.93] failed: connect timed out
+2017-06-14 11:19:11  [ main:945743 ] - [ INFO ]  初始化添加代理，221.176.181.110:9999
+2017-06-14 11:19:14  [ main:949215 ] - [ WARN ]  Connect to 221.176.181.110:9999 [/221.176.181.110] failed: connect timed out
+2017-06-14 11:19:14  [ main:949216 ] - [ INFO ]  初始化添加代理，114.103.22.15:808
+2017-06-14 11:19:16  [ main:951222 ] - [ WARN ]  Connect to 114.103.22.15:808 [/114.103.22.15] failed: connect timed out
+2017-06-14 11:19:16  [ main:951223 ] - [ INFO ]  初始化添加代理，113.108.253.195:9797
+2017-06-14 11:19:18  [ main:953228 ] - [ WARN ]  Connect to 113.108.253.195:9797 [/113.108.253.195] failed: connect timed out
+2017-06-14 11:19:23  [ main:958258 ] - [ INFO ]  初始化添加代理，221.217.36.70:9000
+2017-06-14 11:19:25  [ main:960266 ] - [ WARN ]  Connect to 221.217.36.70:9000 [/221.217.36.70] failed: connect timed out
+2017-06-14 11:19:25  [ main:960266 ] - [ INFO ]  初始化添加代理，122.200.84.13:8080
+2017-06-14 11:19:27  [ main:962273 ] - [ WARN ]  Connect to 122.200.84.13:8080 [/122.200.84.13] failed: connect timed out
+2017-06-14 11:19:27  [ main:962273 ] - [ INFO ]  初始化添加代理，60.160.128.10:9999
+2017-06-14 11:19:31  [ main:965761 ] - [ INFO ]  初始化添加代理，183.196.170.247:9000
+2017-06-14 11:19:33  [ main:967777 ] - [ WARN ]  Connect to 183.196.170.247:9000 [/183.196.170.247] failed: connect timed out
+2017-06-14 11:19:33  [ main:967777 ] - [ INFO ]  初始化添加代理，119.57.105.237:8080
+2017-06-14 11:19:35  [ main:969824 ] - [ INFO ]  初始化添加代理，120.77.148.186:3128
+2017-06-14 11:19:37  [ main:971829 ] - [ WARN ]  Connect to 120.77.148.186:3128 [/120.77.148.186] failed: connect timed out
+2017-06-14 11:19:37  [ main:971829 ] - [ INFO ]  初始化添加代理，101.86.112.186:9000
+2017-06-14 11:19:39  [ main:973834 ] - [ WARN ]  Connect to 101.86.112.186:9000 [/101.86.112.186] failed: connect timed out
+2017-06-14 11:19:39  [ main:973835 ] - [ INFO ]  初始化添加代理，182.139.160.254:9999
+2017-06-14 11:19:41  [ main:975841 ] - [ WARN ]  Connect to 182.139.160.254:9999 [/182.139.160.254] failed: connect timed out
+2017-06-14 11:19:41  [ main:975842 ] - [ INFO ]  初始化添加代理，220.249.185.178:9797
+2017-06-14 11:19:41  [ main:976059 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://220.249.185.178:9797->https://bj.lianjia.com:443: Connection reset
+2017-06-14 11:19:41  [ main:976059 ] - [ INFO ]  Retrying request to {tls}->http://220.249.185.178:9797->https://bj.lianjia.com:443
+2017-06-14 11:19:42  [ main:977191 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {}->http://220.249.185.178:9797->http://captcha.lianjia.com:80: Connection reset
+2017-06-14 11:19:42  [ main:977191 ] - [ INFO ]  Retrying request to {}->http://220.249.185.178:9797->http://captcha.lianjia.com:80
+2017-06-14 11:19:43  [ main:977548 ] - [ INFO ]  初始化添加代理，183.45.172.193:9797
+2017-06-14 11:19:43  [ main:977605 ] - [ WARN ]  Connect to 183.45.172.193:9797 [/183.45.172.193] failed: 拒绝连接
+2017-06-14 11:19:43  [ main:977605 ] - [ INFO ]  初始化添加代理，27.46.74.26:9999
+2017-06-14 11:19:45  [ main:979610 ] - [ WARN ]  Connect to 27.46.74.26:9999 [/27.46.74.26] failed: connect timed out
+2017-06-14 11:19:45  [ main:979610 ] - [ INFO ]  初始化添加代理，183.57.82.71:8081
+2017-06-14 11:19:47  [ main:981614 ] - [ WARN ]  Connect to 183.57.82.71:8081 [/183.57.82.71] failed: connect timed out
+2017-06-14 11:19:47  [ main:981614 ] - [ INFO ]  初始化添加代理，183.27.193.105:808
+2017-06-14 11:19:49  [ main:983620 ] - [ WARN ]  Connect to 183.27.193.105:808 [/183.27.193.105] failed: connect timed out
+2017-06-14 11:19:49  [ main:983620 ] - [ INFO ]  初始化添加代理，182.139.160.254:9999
+2017-06-14 11:19:51  [ main:985625 ] - [ WARN ]  Connect to 182.139.160.254:9999 [/182.139.160.254] failed: connect timed out
+2017-06-14 11:19:51  [ main:985625 ] - [ INFO ]  初始化添加代理，116.214.32.51:8080
+2017-06-14 11:20:06  [ main:1000824 ] - [ INFO ]  I/O exception (java.net.SocketException) caught when processing request to {tls}->http://116.214.32.51:8080->https://bj.lianjia.com:443: Connection reset
+2017-06-14 11:20:06  [ main:1000825 ] - [ INFO ]  Retrying request to {tls}->http://116.214.32.51:8080->https://bj.lianjia.com:443
+2017-06-14 11:20:08  [ main:1002826 ] - [ WARN ]  Connect to 116.214.32.51:8080 [/116.214.32.51] failed: connect timed out
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  共加载150个代理，其中13个可用
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  121.8.243.51:8888
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  119.57.105.237:8080
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  113.65.21.142:9797
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  220.249.185.178:9797
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  222.249.233.238:9000
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  36.36.178.226:8080
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  117.158.198.74:9797
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  119.135.185.99:9797
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  119.57.144.253:8080
+2017-06-14 11:20:08  [ main:1002827 ] - [ INFO ]  118.178.124.33:3128
+2017-06-14 11:20:08  [ main:1002828 ] - [ INFO ]  60.160.128.10:9999
+2017-06-14 11:20:08  [ main:1002828 ] - [ INFO ]  1.119.129.2:8080
+2017-06-14 11:20:08  [ main:1002828 ] - [ INFO ]  close HttpCore

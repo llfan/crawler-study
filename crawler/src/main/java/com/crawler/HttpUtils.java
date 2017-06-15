@@ -8,7 +8,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.*;
-import java.util.concurrent.BlockingQueue;
 
 public class HttpUtils{
 
@@ -16,17 +15,18 @@ public class HttpUtils{
 
 
 
-    public static String getData(String url){
+    public static String getData(String proxyIp, int proxyPort, String url){
 
-        LOG.info("爬取{}上的内容", url);
+
+        LOG.info("爬取{}上的内容,proxy ip:{}:{}", url,proxyIp,proxyPort);
 
         BufferedReader reader;
         String content = "";
 
         try {
             URL oriUrl = new URL(url);
-            Proxy proxy = new Proxy(Proxy.Type.HTTP, new InetSocketAddress(InetAddress.getByName("101.94.128.166"),8123));
-            URLConnection connection = oriUrl.openConnection();
+            Proxy proxy = new Proxy(Proxy.Type.HTTP, new InetSocketAddress(InetAddress.getByName(proxyIp),proxyPort));
+            URLConnection connection = oriUrl.openConnection(proxy);
 
             reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 
@@ -40,8 +40,6 @@ public class HttpUtils{
         } catch (IOException e) {
             LOG.warn(e.getMessage());
         }
-
-        LOG.info("内容为：{}", content);
 
         return content;
     }
